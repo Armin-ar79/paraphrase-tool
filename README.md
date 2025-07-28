@@ -36,4 +36,7 @@ Armin Arbabi
 📧 armin.arbabi79@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/armin-arbabi-847097213/) | [GitHub](https://github.com/armin-arbabi)
 
+## 📸 Sample Output
+
+![Model Output](paraphraser_output.png)
 ---
